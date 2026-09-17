@@ -1,3 +1,0 @@
-Nombre: jean anthony cahuana carrion
-Fecha: 16/09/2026
-Aprendizaje: Aprendí a crear un repositorio en GitHub, gestionar archivos con Git y realizar cambios mediante commits y sincronización con el repositorio remoto.
