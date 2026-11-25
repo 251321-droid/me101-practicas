@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "UNSAAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.958256,
+          -13.521763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Mi casa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.911134,
+          -13.539188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Casa de mis padres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.693778,
+          -12.86819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Sacsayhuaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.982229,
+          -13.509601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Plaza de Armas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.979182,
+          -13.516653
+        ]
+      }
+    }
+  ]
+}
